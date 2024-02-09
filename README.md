@@ -24,6 +24,7 @@ Update the hyperparameters in the main function according to your preferences.
 
 
 Run the SimCLR implementation script: Task_2.ipynb.
+
 Dependencies
 PyTorch
 torchvision
